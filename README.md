@@ -1,7 +1,7 @@
 ### Searchlogic
 ---
 
-https://github.com/toptal/chewy
+https://github.com/binarylogic/searchlogic
 
 ```
 ```
